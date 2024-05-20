@@ -1,0 +1,1 @@
+Dữ liệu đã được ghi vào file data.txt trong thư mục data
